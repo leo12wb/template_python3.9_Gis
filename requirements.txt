@@ -1,9 +1,10 @@
 jupyterlab==4.2.5
 notebook==7.2.2
 # Remover a linha do GDAL
+pyproj
 numpy
-shapely
 fiona
+shapely
 geopandas
 
 
